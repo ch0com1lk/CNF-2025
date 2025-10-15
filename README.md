@@ -1,10 +1,10 @@
 # Reconstrucción Holográfica Precisa a partir de Patrones Marginales mediante Redes Neuronales
 
 **Trabajo LXVIII-011184**  
-Presentado en la sesión de Óptica del LXVIII Congreso Nacional de Física  
-Fecha: 16 de octubre de 2025  
-Lugar: Centro de Convenciones Estado de México  
-Organizado por: Sociedad Mexicana de Física
+Presentado para la Presentación de un Cartel en el Área de Óptica dentro del LXVIII Congreso Nacional de Física,  
+Fecha: 16 de octubre de 2025,   
+Lugar: Centro de Convenciones Estado de México,  
+Organizado por la Sociedad Mexicana de Física.
 
 ## Reconstrucción Holográfica con Redes Neuronales
 
